@@ -1,0 +1,6 @@
+{
+  "name": "Destination Discovery & Culture Explorer",
+  "description": "A dynamic, AI-powered platform to discover authentic destinations, hidden gems, and local cultural experiences worldwide using real-time search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
